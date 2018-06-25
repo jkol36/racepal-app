@@ -1,0 +1,149 @@
+[{  
+   "meeting":{  
+      "xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance",
+      "xsi:noNamespaceSchemaLocation":"http://www.aapmegaform.com.au/schema/ResultsV1.2.7.xsd",
+      "$t":"\n  \n  \n  \n  \n  \n  \n  \n  ",
+      "product":{  
+         "directory":"RESULTS_XML_T",
+         "track":"GRA",
+         "date":"0802",
+         "file":"GRA0802.XML"
+      },
+      "stage":"R",
+      "date":"08/02/2018",
+      "rail_position":"Out +3m Wp-1600m, Out +3m 1200m-400m; True Remainder",
+      "tab_indicator":"T",
+      "dual_track":"N",
+      "track":{  
+         "name":"Grafton",
+         "id":"110",
+         "club":"Clarence River J.C.",
+         "track_surface":"G",
+         "location":"C",
+         "country":"AUS",
+         "state":"NSW",
+         "track_3char_abbrev":"GRA",
+         "track_4char_abbrev":"GRAF",
+         "track_6char_abbrev":"GRAFT"
+      },
+      "events":{  
+         "$t":"\n    ",
+         "event":{  
+            "number":"1",
+            "name":"Barrier Trial",
+            "id":"1545281",
+            "$t":"\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+            "track":{  
+               "name":"Grafton",
+               "id":"110",
+               "track_surface":"G",
+               "track_3char_abbrev":"GRA"
+            },
+            "barrier_trial_indicator":"B",
+            "distance":{  
+               "metres":"1006"
+            },
+            "track_condition":"Good(4)",
+            "duration":"0:58.42",
+            "sectional":{  
+               "distance":"600",
+               "time":"0:34.10"
+            },
+            "starters":"9",
+            "restrictions":{  
+
+            },
+            "weight_type":"Catch Weight",
+            "official_margin_1":".5",
+            "official_margin_2":"3.0",
+            "classes":{  
+               "class":[  
+                  "Barrier Trial",
+                  "Open"
+               ]
+            },
+            "horses":{  
+               "$t":"\n        \n        \n        ",
+               "horse":[  
+                  {  
+                     "name":"Silento",
+                     "country":"NZ",
+                     "age":"7",
+                     "colour":"b",
+                     "sex":"G",
+                     "id":"792326",
+                     "foaling_date":"14/11/2010",
+                     "finish_position":"1",
+                     "sire":{  
+                        "name":"Savabeel",
+                        "country":"AUS"
+                     },
+                     "dam":{  
+                        "name":"Speechless",
+                        "country":"AUS"
+                     },
+                     "sire_of_dam":{  
+                        "name":"Redoute's Choice",
+                        "country":"AUS"
+                     },
+                     "trainer":{  
+                        "name":"Daniel Bowen",
+                        "id":"26357"
+                     },
+                     "training_location":"Lismore",
+                     "owners":"P P Matheson, C M Carlaw, A D Perrin & D S Bowen",
+                     "prizemoney_won":"65159",
+                     "jockey":{  
+                        "name":"Kirk Matheson",
+                        "firstname":"Kirk",
+                        "surname":"Matheson",
+                        "id":"14768"
+                     },
+                     "barrier":"1",
+                     "margin":"0.5"
+                  },
+                  {  
+                     "name":"Splinter",
+                     "country":"AUS",
+                     "age":"6",
+                     "colour":"b",
+                     "sex":"G",
+                     "id":"804855",
+                     "foaling_date":"24/10/2011",
+                     "finish_position":"2",
+                     "sire":{  
+                        "name":"Conatus",
+                        "country":"AUS"
+                     },
+                     "dam":{  
+                        "name":"Expresso Bay",
+                        "country":"AUS"
+                     },
+                     "sire_of_dam":{  
+                        "name":"Success Express",
+                        "country":"USA"
+                     },
+                     "trainer":{  
+                        "name":"S B Lee",
+                        "id":"711"
+                     },
+                     "training_location":"Ballina",
+                     "owners":"Dr M E King",
+                     "prizemoney_won":"68285",
+                     "jockey":{  
+                        "name":"C Whiteley",
+                        "firstname":"Chris",
+                        "surname":"Whiteley",
+                        "id":"9830"
+                     },
+                     "barrier":"2",
+                     "margin":"0.5"
+                  }
+               ]
+            }
+         }
+      }
+   }
+},{"meeting":{"xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","xsi:noNamespaceSchemaLocation":"http://www.aapmegaform.com.au/schema/ResultsV1.2.7.xsd","$t":"\n  \n  \n  \n  \n  \n  \n  \n  ","product":{"directory":"RACE_BY_RACE_XML","track":"WAG","date":"2202","file":"WAG2202.XML"},"stage":"R","date":"22/02/2018","rail_position":"+5m from 900m to 400m, +3m the remainder","tab_indicator":"T","dual_track":"N","track":{"name":"Wagga","id":"509","club":"Murrumbidgee T.C.","location":"C","country":"AUS","state":"NSW","track_3char_abbrev":"WAG","track_4char_abbrev":"WAGG","track_6char_abbrev":"WAGGA"},"events":{"$t":"\n    ","event":{"number":"2","nomination_number":"7","name":"XXXX Gold Mdn Plate","id":"1546042","$t":"\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ","track":{"name":"Wagga","id":"509","track_3char_abbrev":"WAG"},"start_time":"2:10pm","distance":{"metres":"1300"},"track_condition":"Good(3)","duration":"1:18.22","starters":"12","restrictions":{"sex":"Colts, Horses & Geldings","jockey":"Apprentices Can Claim"},"weight_type":"Set Weight","official_margin_1":"2.0","official_margin_2":"LN","classes":{"class":"Maiden"},"prizes":{"prize":[{"type":"1st","value":"11085"},{"type":"2nd","value":"3740"},{"type":"3rd","value":"1870"},{"type":"4th","value":"885"},{"type":"5th","value":"520"},{"type":"6th","value":"300"},{"type":"7th","value":"300"},{"type":"8th","value":"300"},{"type":"9th","value":"300"},{"type":"10th","value":"300"},{"type":"total_value","value":"20000"},{"type":"welfare_fund","value":"400"}]},"prizemoney_currency":"AUS","records":{"$t":"\n        \n        ","track_record":[{"meeting_date":"06/05/1993","race":{"number":"6","id":"81696"},"distance":{"metres":"1250"},"duration":"1:12.24","horse":{"name":"Welsh Miner","country":"NZ","id":"326965","jockey":{"name":"D Terry","firstname":"D","surname":"Terry","id":"6420"},"weight_carried":"52.5"}},{"$t":"\n          \n          \n          \n          \n          ","meeting_date":"05/05/2017","race":{"number":"5","id":"1518575"},"distance":{"metres":"1300"},"duration":"1:16.55","horse":{"name":"Hangin' With Willy","country":"AUS","id":"838045","$t":"\n            \n","jockey":{"name":"B Murphy","firstname":"Bryan","surname":"Murphy","id":"301"}}}]}}}}},
+{"meeting":{"xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","xsi:noNamespaceSchemaLocation":"http://www.aapmegaform.com.au/schema/ResultsV1.2.7.xsd","$t":"\n  \n  \n  \n  \n  \n  \n  \n  ","product":{"directory":"RACE_BY_RACE_XML","track":"WAG","date":"2202","file":"WAG2202.XML"},"stage":"R","date":"22/02/2018","rail_position":"+5m from 900m to 400m, +3m the remainder","tab_indicator":"T","dual_track":"N","track":{"name":"Wagga","id":"509","club":"Murrumbidgee T.C.","location":"C","country":"AUS","state":"NSW","track_3char_abbrev":"WAG","track_4char_abbrev":"WAGG","track_6char_abbrev":"WAGGA"},"events":{"$t":"\n    ","event":{"number":"3","nomination_number":"5","name":"Mtc 100 Club Plate (C1)","id":"1546040","$t":"\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ","track":{"name":"Wagga","id":"509","track_3char_abbrev":"WAG"},"start_time":"2:45pm","distance":{"metres":"2000"},"track_condition":"Good(3)","duration":"2:04.68","starters":"11","restrictions":{"age":"3yo+","jockey":"Apprentices Can Claim"},"weight_type":"Set Weight","official_margin_1":"NS","official_margin_2":"1.5","classes":{"class":"Class 1"},"prizes":{"prize":[{"type":"1st","value":"11085"},{"type":"2nd","value":"3740"},{"type":"3rd","value":"1870"},{"type":"4th","value":"885"},{"type":"5th","value":"520"},{"type":"6th","value":"300"},{"type":"7th","value":"300"},{"type":"8th","value":"300"},{"type":"9th","value":"300"},{"type":"10th","value":"300"},{"type":"total_value","value":"20000"},{"type":"welfare_fund","value":"400"}]},"prizemoney_currency":"AUS","records":{"track_record":{"meeting_date":"07/05/1999","race":{"number":"7","id":"876470"},"distance":{"metres":"2000"},"duration":"1:59.81","horse":{"name":"Goodwood","country":"AUS","id":"226200","jockey":{"name":"B York","firstname":"B","surname":"York","id":"6778"},"weight_carried":"53"}}},"horses":{"$t":"\n        ","horse":{"name":"Dream Builder","country":"AUS","age":"4","colour":"b/br","sex":"G","id":"832747","foaling_date":"19/08/2013","$t":"\n          \n          \n          \n          \n          ","finish_position":"1","sire":{"name":"Lonhro","country":"AUS"},"dam":{"name":"Mirrasalo","country":"AUS"},"sire_of_dam":{"name":"Redoute's Choice","country":"AUS"}}}}}}},
+{"meeting":{"xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","xsi:noNamespaceSchemaLocation":"http://www.aapmegaform.com.au/schema/ResultsV1.2.7.xsd","$t":"\n  \n  \n  \n  \n  \n  \n  \n  ","product":{"directory":"RACE_BY_RACE_XML","track":"WAG","date":"2202","file":"WAG2202.XML"},"stage":"R","date":"22/02/2018","rail_position":"+5m from 900m to 400m, +3m the remainder","tab_indicator":"T","dual_track":"N","track":{"name":"Wagga","id":"509","club":"Murrumbidgee T.C.","location":"C","country":"AUS","state":"NSW","track_3char_abbrev":"WAG","track_4char_abbrev":"WAGG","track_6char_abbrev":"WAGGA"},"events":{"$t":"\n    ","event":{"number":"5","nomination_number":"2","name":"Tom Patton Cup Prelude","id":"1537745","$t":"\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ","track":{"name":"Wagga","id":"509","track_3char_abbrev":"WAG"},"start_time":"3:55pm","distance":{"metres":"1800"},"track_condition":"Good(3)","duration":"1:50.96","starters":"11","restrictions":{"jockey":"Apprentices Can Claim"},"weight_type":"Handicap","min_hcp_weight":"54","official_margin_1":"SN","official_margin_2":".5","classes":{"class":"Open"},"prizes":{"prize":[{"type":"1st","value":"12840"},{"type":"2nd","value":"4370"},{"type":"3rd","value":"2200"},{"type":"4th","value":"1035"},{"type":"5th","value":"595"},{"type":"6th","value":"300"},{"type":"7th","value":"300"},{"type":"8th","value":"300"},{"type":"9th","value":"300"},{"type":"10th","value":"300"},{"type":"total_value","value":"23000"},{"type":"welfare_fund","value":"460"},{"type":"trophy_total_value","value":"200"}]},"prizemoney_currency":"AUS","records":{"track_record":{"meeting_date":"18/04/2010","race":{"number":"5","id":"1290283"},"distance":{"metres":"1800"},"duration":"1:47.63","horse":{"name":"Leica Larrikin","country":"AUS","id":"666579","jockey":{"name":"M A Cahill","firstname":"Mathew","surname":"Cahill","id":"8148"},"weight_carried":"60"}}},"horses":{"$t":"\n        ","horse":{"name":"American Time","country":"AUS","age":"6","colour":"b","sex":"M","id":"798114","foaling_date":"28/10/2011","$t":"\n          \n          \n          ","finish_position":"1","sire":{"name":"All American","country":"AUS"}}}}}}},]
