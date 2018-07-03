@@ -10,10 +10,9 @@ import {
   Image} from 'react-native';
 
 import SwipeCards from 'react-native-swipe-cards';
-import tipjson from 'racepal-app/datastructures/tip.json'
 import {Icon, Divider} from 'react-native-elements'
-import {Theme} from 'racepal-app/src/components'
-import { PlaceTradeComponent } from 'racepal-app/src/components'
+import {Theme} from './Theme'
+import { PlaceTradeComponent } from './PlacetradeComponent'
 import { Button } from 'react-native-elements'
 import moment from 'moment'
 import { firebaseRef, firestore } from './Firebase'
