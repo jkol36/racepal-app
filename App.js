@@ -169,11 +169,7 @@ const ShareNavigator = StackNavigator({
 
 const HomeTabs = TabNavigator({
     //Profile: { screen: ProfileNavigator },
-    MySystems: {screen: MySystems},
-    TipsFeed: {screen: TipsFeed},
-    FormGenius: {screen: FormGenius},
-    PublicSystems: {screen: PublicSystems},
-    More: {screen:More}
+    TipsFeed: {screen: TipsFeed}
 }, {
     animationEnabled: false,
     tabBarComponent: HomeTab,

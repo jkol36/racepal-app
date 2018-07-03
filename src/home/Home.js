@@ -13,11 +13,7 @@ type Tab = { label: string, icon: string };
 export class HomeTab extends React.Component<NavigationProps<*>> {
 
     static tabs: Tab[] = [
-        { label: "My Systems", routeName:'MySystems', icon: "star" },
         { label: "Tips Feed", routeName:'TipsFeed', icon: "star" },
-        { label: "Form Genius", routeName:'FormGenius', icon: "lightbulb-on" },
-        { label: "Public Systems", routeName:'PublicSystems', icon: "target" },
-        { label: "More", routeName:'More', icon:'dots-horizontal'}
     ];
 
     render(): React.Node {
